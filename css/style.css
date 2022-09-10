@@ -1,0 +1,49 @@
+.image-container {
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+    margin-right: 10px;
+}
+#extended {
+    display: none;
+}
+.title span {
+    font-weight: 700;
+    position: relative;
+    top: 10px;
+    font-size: 30px;
+}
+.right-content {
+    position: relative;
+    top: 20px;
+    text-align: right;
+}
+.status {
+    text-decoration: none;
+    color: #4f8fff;
+}
+.status:hover {
+    color: #4f8fff;
+}
+.sub-title {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.list li {
+    list-style: none;
+}
+
+.socials {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+
+}
+.socials a {
+    color: #000;
+}
